@@ -1,1 +1,7 @@
 
+[setup project, implement has_secure_password and bcrypt]
+### 12/04/2018[19:28 - 19:36]:
+* initial project setup
+* gen User model
+* set up User model and implement bcrypt
+
