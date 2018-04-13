@@ -8,3 +8,5 @@
 ##### 13/04/2018: 16:24 - 16:37:pool[set up controller actions, routes and private methods]
 
 ##### 13/04/2018: 16:37 - 16:50:pool[create basic user views]
+
+##### 13/04/2018: 16:51 - 16:51:pool[test]

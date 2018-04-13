@@ -1,1 +1,7 @@
 
+[create users controller with actions, views, and routes]
+### 13/04/2018[16:24 - 16:51]:
+* set up controller actions, routes and private methods
+* create basic user views
+* test
+
