@@ -6,3 +6,5 @@
 ##### 12/04/2018: 19:33 - 19:36:pool[set up User model and implement bcrypt]
 
 ##### 13/04/2018: 16:24 - 16:37:pool[set up controller actions, routes and private methods]
+
+##### 13/04/2018: 16:37 - 16:50:pool[create basic user views]
