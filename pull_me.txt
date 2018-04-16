@@ -1,1 +1,5 @@
 
+[create sessions controller, sessions routes, and form for logging in, tested flow]
+### 16/04/2018[16:38 - 16:54]:
+* create sessions controller, routes, and login form
+

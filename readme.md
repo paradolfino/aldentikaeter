@@ -10,3 +10,5 @@
 ##### 13/04/2018: 16:37 - 16:50:pool[create basic user views]
 
 ##### 13/04/2018: 16:51 - 16:51:pool[test]
+
+##### 16/04/2018: 16:38 - 16:54:pool[create sessions controller, routes, and login form]
