@@ -7,7 +7,7 @@ module ApplicationHelper
         if current_user
             "<h3>#{link_to 'Log Out', logout_path, method: 'delete'}</h3>".html_safe
         else
-            "<h3>Not a member? #{link_to 'Sign Up!', signup_path}</h3> or #{login_link_to}"
+            "<h3>Not a member? #{link_to 'Sign Up!', signup_path}</h3> or #{login_link_to}".html_safe
         end
     end
 end
