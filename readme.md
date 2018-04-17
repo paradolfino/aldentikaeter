@@ -20,3 +20,5 @@
 ##### 17/04/2018: 16:17 - 16:40:pool[set up view helper to take care of business logic in view]
 
 ##### 17/04/2018: 16:40 - 16:48:pool[set up require_same_user method in application controller]
+
+##### 17/04/2018: 16:48 - 16:57:pool[set up flash notice on application layout]
