@@ -1,5 +1,5 @@
 module ApplicationHelper
-    def login_link_to(text)
+    def login_link_to(text: "Log In")
         link_to text, login_path
     end
     
