@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
 	
 	def require_same_user(user)
 	    if current_user != user
-	        redirect_to '/login'
+	        redirect_to '/'
 	    end
 	end
 end
