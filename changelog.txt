@@ -7,3 +7,4 @@
 16/04/2018: 16:38 - 16:54:pool[create sessions controller, routes, and login form]
 17/04/2018: 15:51 - 15:54:pool[create helper method for authorizing user in application controller]
 17/04/2018: 15:54 - 16:17:pool[begin implement authorization in views]
+17/04/2018: 16:17 - 16:40:pool[set up view helper to take care of business logic in view]
