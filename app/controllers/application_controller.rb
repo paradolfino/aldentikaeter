@@ -11,6 +11,7 @@ class ApplicationController < ActionController::Base
 	
 	def require_same_user(user)
 	    if current_user != user
+	        flash[:notice] = "You don't have the right to view this!"
 	        redirect_to '/'
 	    end
 	end
