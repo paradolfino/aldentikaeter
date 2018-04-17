@@ -12,3 +12,5 @@
 ##### 13/04/2018: 16:51 - 16:51:pool[test]
 
 ##### 16/04/2018: 16:38 - 16:54:pool[create sessions controller, routes, and login form]
+
+##### 17/04/2018: 15:51 - 15:54:pool[create helper method for authorizing user in application controller]
