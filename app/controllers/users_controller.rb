@@ -7,7 +7,7 @@ class UsersController < ApplicationController
     end
     
     def show
-       
+       require_same_user(@user)
     end
     
     def new
