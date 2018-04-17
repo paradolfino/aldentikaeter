@@ -8,4 +8,10 @@ class ApplicationController < ActionController::Base
     def require_user 
   	    redirect_to '/login' unless current_user 
 	end
+	
+	def require_same_user(user)
+	    if current_user != user
+	        redirect_to '/login'
+	    end
+	end
 end
