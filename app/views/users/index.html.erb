@@ -1,4 +1,4 @@
-<h1>Current Users [<%= link_to 'New', new_user_path %>]</h1>
+<h1>Current Users</h1>
 <ul>
     <% @users.each do |user| %>
         <li><%= user.first_name %> <%= link_to '[View]', user_path(user) if current_user %></li>
